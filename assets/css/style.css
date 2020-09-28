@@ -1561,7 +1561,7 @@ Services Area
 }
 
 .services-area.services-two .services-slider .service-card:hover i {
-  background: white;
+  background: #920a0a;
   color: #ffffff;
 }
 
@@ -1645,7 +1645,7 @@ Services Area
 
 .service-card:hover i {
   background: #301d44;
-  color: #c90c0c;
+  color: white;
 }
 
 .service-card:hover .default-btn-two {
