@@ -1026,16 +1026,15 @@ Hero Slider Area
 }
 
 .hero-slider .hero-slider-item.item-bg1 {
-  background-image: url("https://images.pexels.com/photos/93398/pexels-photo-93398.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-image: url("../img/hero-slider/cou3.jpg");
 }
 
 .hero-slider .hero-slider-item.item-bg2 {
-  background-image: url("https://images.pexels.com/photos/4498152/pexels-photo-4498152.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-image: url("../img/hero-slider/cou4.jpg");
 }
 
 .hero-slider .hero-slider-item.item-bg3 {
-  background-image: url("https://images.pexels.com/photos/4246120/pexels-photo-4246120.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
-  /* background-image: url("../img/hero-slider/hero-slider3.jpg"); */
+  background-image: url("../img/hero-slider/cou5.jpg");
 }
 
 .hero-slider .banner-content {
@@ -1675,7 +1674,7 @@ Choose Area
 }
 
 .choose-area .choose-contant .choose-card {
-  padding-left: 100px;
+  /* padding-left: 100px; */
   position: relative;
 }
 
