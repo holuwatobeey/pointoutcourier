@@ -217,11 +217,12 @@ Top Heder
 }
 
 .top-header .left-info li a:hover {
-  color: #c90c0c;
+  color: black;
+  font-weight:bolder;
 }
 
 .top-header .left-info li a:hover i {
-  color: #c90c0c;
+  color: black;
 }
 
 .top-header .right-info {
